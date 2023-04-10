@@ -17,12 +17,6 @@ public class Task_1 {
     }
 
 
-//        printArray(randomArray());
-//        randomArray();
-//        Integer[] array = randomArray();
-//        checkArray(randomArray());
-
-
     private static void fillArray(Integer[] arr) {
         Random random = new Random();
         for (int i = 0; i < arr.length; i++) {
@@ -30,24 +24,6 @@ public class Task_1 {
         }
     }
 
-
-    public static void printArray(Integer[] arr) {
-        for (int j : arr) {
-            System.out.print(j + " ");
-        }
-        System.out.println();
-    }
-
-
-    //    private static v Integer[] randomArray() {
-//        Random rnd = new Random();
-//        int[] arrayRandom = new int[5];
-//        for (int i = 0; i < arrayRandom.length; i++) {
-//            arrayRandom[i] = rnd.nextInt(2);
-//        }
-//
-//
-//    }
     public static Integer[] randomArray() {
         Random rnd = new Random();
         int[] AI = new int[10];

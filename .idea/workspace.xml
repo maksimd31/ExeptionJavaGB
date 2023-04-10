@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bf48aaa-28fc-4e7d-8df1-b86f3ff46d12" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork1/HomeWork_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork1/Task_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork1/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork1/Task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HomeWork1/Task_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork1/Task_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
